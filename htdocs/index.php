@@ -3,7 +3,7 @@
 <h1>FOOBAR!!</h1>
 <?php
 for($i = 0; $i < 5; $i++) {
-	echo ("Woot!</br>");
+	echo ("Bar!</br>");
 }
 ?>
 </body>
